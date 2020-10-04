@@ -1,5 +1,5 @@
-### Hi there 👋
+### Hi 👋
 
-- 🔭 I’m currently working on python, django. 
-- 📫 How to reach me: ideepakbalhara@gmail.com
+- 🔭 Interests: python, django, linux. 
+- 📫 Reach me over e-mail: ideepakbalhara@gmail.com
 - ⚡ Fun fact: The Deep Web & Darknet are two different concepts.
