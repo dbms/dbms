@@ -1,6 +1,6 @@
 ### Hi 👋
 
-🔭 Interests: python, django, linux. 
+🔭 Interests: python, django, linux. <br>
 📫 Reach me over e-mail: ideepakbalhara@gmail.com
 
 Get $100 free hosting for 2 months, use the below link to avail the offer.
